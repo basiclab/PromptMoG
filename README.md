@@ -226,11 +226,10 @@ done
 ## 📝 Citation
 
 ```bibtex
-@article{ruan2025promptmog,
-  title={{PromptMoG}: Enhancing Diversity in Long-Prompt Image Generation via
-Prompt Embedding Mixture-of-Gaussian Sampling},
+@inproceedings{ruan2026promptmog,
+  title={Diversifying Long Prompt Image Generation through Structured Prompt Embedding Space Sampling},
   author={Ruan, Bo-Kai and Hsiao, Teng-Fang and Lo, Ling and Wu, Yi-Lun and Shuai, Hong-Han},
-  journal={arXiv preprint arXiv:2511.20251},
-  year={2025}
+  booktitle={BMVC},
+  year={2026}
 }
 ```
